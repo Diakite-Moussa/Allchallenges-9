@@ -1,2 +1,1 @@
-Contenu initial de about.txt
-Ajout de contenu spécifique à la branche feature/about
+Contenu conflit sur main
