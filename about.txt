@@ -1,1 +1,3 @@
-Contenu conflit sur main
+Contenu initial de about.txt
+Ajout de contenu spécifique à la branche feature/about
+Contenu final après résolution du conflit
